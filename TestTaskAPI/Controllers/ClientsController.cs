@@ -32,7 +32,7 @@ namespace TestTaskAPI.Controllers
             else
             {
                 return res;
-            }
+            } 
         }
     }
 }
